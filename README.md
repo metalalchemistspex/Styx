@@ -1,3 +1,5 @@
+<img width="784" height="1168" alt="image (3)" src="https://github.com/user-attachments/assets/01ce55ab-e752-4327-b496-dcf9e1e73be6" />
+
 # Styx
 Copyright (c) 2026 metalalchemistspex  Permission is hereby granted, free of charge...
 # Styx - Zero-Trust Swarm Detection Framework
